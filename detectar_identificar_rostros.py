@@ -1,6 +1,6 @@
 import cv2
 import pickle
-
+class: detectar
 cascPath = "Cascades/haarcascade_frontalface_alt2.xml"
 faceCascade = cv2.CascadeClassifier(cascPath)
 
